@@ -3,7 +3,6 @@ import random
 
 class Food(Turtle):
 
-
     def __init__(self):
         super().__init__()
         # We're only able to use these Turtle methods because
